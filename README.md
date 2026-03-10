@@ -22,3 +22,6 @@ How to run it.
    - volcanoes.json
 2. open the index.html with live server (or just in your browser)
 3. and the map and chart should automatically load!
+
+
+ps. there was alot of testing that needed to be done which is why you might see some testing codes that i accidentally forgot to delete :')
