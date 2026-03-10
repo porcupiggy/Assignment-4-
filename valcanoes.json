@@ -1,0 +1,42 @@
+[ 
+  {
+    "name": "Mount Fuji",
+    "country": "Japan",
+    "region": "Honshu",
+    "elevation": 3776,
+    "latitude": 35.3606,
+    "longitude": 138.7274
+  },
+  {
+    "name": "Mauna Loa",
+    "country": "United States",
+    "region": "Hawaii",
+    "elevation": 4169,
+    "latitude": 19.475,
+    "longitude": -155.608
+  },
+  {
+    "name": "Mount Kilimanjaro",
+    "country": "Tanzania",
+    "region": "Kilimanjaro",
+    "elevation": 5895,
+    "latitude": -3.0674,
+    "longitude": 37.3556
+  },
+  {
+    "name": "Mount Etna",
+    "country": "Italy",
+    "region": "Sicily",
+    "elevation": 3329,
+    "latitude": 37.751,
+    "longitude": 14.9934
+  },
+  {
+    "name": "Mount St. Helens",
+    "country": "United States",
+    "region": "Washington",
+    "elevation": 2549,
+    "latitude": 46.1912,
+    "longitude": -122.1944
+  }
+]
