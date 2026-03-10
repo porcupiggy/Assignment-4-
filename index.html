@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Volcano Map & Elevation Chart</title>
+  <style>
+    #map {
+      height: 400px;
+      margin-bottom: 20px;
+    }
+    #chartContainer {
+      height: 400px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Volcanoes Data</h1>
+
+  <div id="map"></div>
+
+  <div id="chartContainer">
+    <canvas id="volcanoChart"></canvas>
+  </div>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="script.js"></script>
+
+  <script async
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCRktyyZ4hOtmO-Zmxb7DCBZhyvQq_FjBs&callback=initMap">
+  </script>
+</body>
+</html>
